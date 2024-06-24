@@ -12,7 +12,7 @@ The CNN model is trained on a dataset of MRI images to classify images as either
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/Firojpaudel/Brain_Tumor_Detection.git`
-2. Also you'll need to install pytorch and would suggest to create a environment 
+2. Also you'll need to install pytorch and would suggest to create an environment 
 3. And Install the required packages: `pip install -r requirements.txt` inside that environment
    > I used conda 
 
